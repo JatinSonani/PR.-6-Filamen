@@ -21,8 +21,7 @@ int main()
         if( string[i] != string[length-1-i] )
         {
             flag=0;
-            break;
-        }
+      }
     }
 
     if(flag==1)
